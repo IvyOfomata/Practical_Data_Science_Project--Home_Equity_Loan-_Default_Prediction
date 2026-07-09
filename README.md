@@ -1,5 +1,6 @@
 # Practical Data Science Project- Home Equity Loan Default Prediction
 An end-to-end classification machine learning project using risk modeling to predict the probability of home equity loan defaults.
+
 Workflow & Methodology
 1. Data Preprocessing & Cleaning: Treatment of missing values, outlier detection, and scaling.
 2. Exploratory Data Analysis (EDA): Feature correlation analysis and distribution checks across default vs. non-default groups.
